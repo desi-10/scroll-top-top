@@ -1,0 +1,22 @@
+{
+  "name": "scroll-to-top",
+  "version": "1.0.0",
+  "description": "A reusable React component for automatically scrolling to the top of the page when navigating between routes using React Router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "keywords": [
+    "scroll",
+    "react",
+    "component",
+    "react-router-dom",
+    "scroll-to-top"
+  ],
+  "author": "Desmond Kudjuh",
+  "license": "ISC"
+}
